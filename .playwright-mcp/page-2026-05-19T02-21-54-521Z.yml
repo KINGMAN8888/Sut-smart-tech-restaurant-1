@@ -1,0 +1,545 @@
+- generic [ref=e2]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - img [ref=e9]
+      - text: SUT · HUM 231
+    - heading "SUT Smart Tech Restaurant" [level=1] [ref=e12]
+    - generic [ref=e13]: "|"
+    - paragraph [ref=e14]: A mobile app & self-service kiosks ending long queues and food waste in our campus cafeteria — a project by Team Alpha.
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: 0%
+        - generic [ref=e18]: Fewer Complaints
+      - generic [ref=e19]:
+        - generic [ref=e20]: 0%
+        - generic [ref=e21]: Faster Service
+      - generic [ref=e22]:
+        - generic [ref=e23]: 0 Weeks
+        - generic [ref=e24]: Timeline
+    - generic [ref=e25]:
+      - link "Begin Presentation" [ref=e26] [cursor=pointer]:
+        - /url: "#slide-2"
+        - generic [ref=e27]: Begin Presentation
+        - img [ref=e28]
+      - button "Live Demo" [ref=e30]:
+        - img [ref=e31]
+        - text: Live Demo
+    - generic [ref=e33]: Scroll · Use arrows below
+  - generic [ref=e37]:
+    - generic [ref=e38]:
+      - paragraph [ref=e39]: 02 · The Hook
+      - heading "From Chaos to Clarity" [level=2] [ref=e40]
+    - generic [ref=e41]:
+      - generic [ref=e44]:
+        - img [ref=e48]
+        - generic [ref=e57]:
+          - img [ref=e59]
+          - text: Current Chaos
+        - heading "Long queues. Wasted food. Frustrated students." [level=3] [ref=e61]
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - generic [ref=e64]:
+              - img [ref=e65]
+              - generic [ref=e68]: 0 min
+            - generic [ref=e69]: Average Wait
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - img [ref=e72]
+              - generic [ref=e75]: 0%
+            - generic [ref=e76]: Complaints
+        - list [ref=e77]:
+          - listitem [ref=e78]:
+            - img [ref=e79]
+            - generic [ref=e83]: 20+ minute waits between classes
+          - listitem [ref=e84]:
+            - img [ref=e85]
+            - generic [ref=e89]: Overproduction & daily food waste
+          - listitem [ref=e90]:
+            - img [ref=e91]
+            - generic [ref=e95]: No way to know what's available
+          - listitem [ref=e96]:
+            - img [ref=e97]
+            - generic [ref=e101]: Cash-only friction at the counter
+      - generic [ref=e104]:
+        - generic [ref=e107]:
+          - img [ref=e109]
+          - text: Smart Solution
+        - heading "Order ahead. Pay digitally. Walk in, pick up." [level=3] [ref=e111]
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - img [ref=e115]
+              - generic [ref=e117]: 0 min
+            - generic [ref=e118]: Expected Wait
+          - generic [ref=e119]:
+            - generic [ref=e120]:
+              - img [ref=e121]
+              - generic [ref=e124]: 0%
+            - generic [ref=e125]: Satisfaction
+        - list [ref=e126]:
+          - listitem [ref=e127]:
+            - generic [ref=e128]: Mobile app with live menu & wait times
+          - listitem [ref=e129]:
+            - generic [ref=e130]: Self-service kiosks for instant ordering
+          - listitem [ref=e131]:
+            - generic [ref=e132]: Data-driven prep to slash waste
+          - listitem [ref=e133]:
+            - generic [ref=e134]: Cashless, contactless, queueless
+  - generic [ref=e139]:
+    - generic [ref=e140]:
+      - paragraph [ref=e141]: 03 · Objectives
+      - heading "SMART Objectives" [level=2] [ref=e142]
+    - generic [ref=e143]:
+      - generic [ref=e145]:
+        - generic [ref=e146]: S
+        - img [ref=e147]
+        - heading "Specific" [level=3] [ref=e151]
+        - paragraph [ref=e152]: Launch a unified ordering app and 3 self-service kiosks at the SUT cafeteria.
+      - generic [ref=e154]:
+        - generic [ref=e155]: M
+        - img [ref=e156]
+        - heading "Measurable" [level=3] [ref=e162]
+        - paragraph [ref=e163]: Cut average wait time by 60% and food waste by 40% in the first semester.
+      - generic [ref=e165]:
+        - generic [ref=e166]: A
+        - img [ref=e167]
+        - heading "Achievable" [level=3] [ref=e170]
+        - paragraph [ref=e171]: Built within a 12,000 EGP budget using accessible tools and student talent.
+      - generic [ref=e173]:
+        - generic [ref=e174]: R
+        - img [ref=e175]
+        - heading "Relevant" [level=3] [ref=e178]
+        - paragraph [ref=e179]: Directly aligned with SUT's mission of sustainability and smart campus innovation.
+      - generic [ref=e181]:
+        - generic [ref=e182]: T
+        - img [ref=e183]
+        - heading "Time-bound" [level=3] [ref=e186]
+        - paragraph [ref=e187]: Full pilot deployed and evaluated within a 12-week academic timeline.
+  - generic [ref=e192]:
+    - generic [ref=e193]:
+      - paragraph [ref=e194]: 04 · Methodology
+      - heading "Waterfall Timeline" [level=2] [ref=e195]
+      - paragraph [ref=e196]: Structured Development Process
+    - generic [ref=e200]:
+      - generic [ref=e203]:
+        - paragraph [ref=e204]: Phase 1
+        - heading "Research" [level=3] [ref=e205]
+        - paragraph [ref=e206]: Weeks 1–3
+        - generic [ref=e208]:
+          - generic [ref=e209]: Progress
+          - generic [ref=e210]: 0%
+        - paragraph [ref=e212]: Student surveys, cafeteria observation, data collection.
+      - generic [ref=e215]:
+        - paragraph [ref=e216]: Phase 2
+        - heading "Design" [level=3] [ref=e217]
+        - paragraph [ref=e218]: Weeks 4–6
+        - generic [ref=e220]:
+          - generic [ref=e221]: Progress
+          - generic [ref=e222]: 0%
+        - paragraph [ref=e224]: UI/UX wireframes, kiosk interface, user flow planning.
+      - generic [ref=e227]:
+        - paragraph [ref=e228]: Phase 3
+        - heading "Code" [level=3] [ref=e229]
+        - paragraph [ref=e230]: Weeks 7–10
+        - generic [ref=e232]:
+          - generic [ref=e233]: Progress
+          - generic [ref=e234]: 0%
+        - paragraph [ref=e236]: App development, database integration, kiosk system coding.
+      - generic [ref=e239]:
+        - paragraph [ref=e240]: Phase 4
+        - heading "Test" [level=3] [ref=e241]
+        - paragraph [ref=e242]: Weeks 11–12
+        - generic [ref=e244]:
+          - generic [ref=e245]: Progress
+          - generic [ref=e246]: 0%
+        - paragraph [ref=e248]: Beta testing, bug fixing, user feedback.
+  - generic [ref=e254]:
+    - generic [ref=e255]:
+      - paragraph [ref=e256]: 05 · Resources
+      - heading "Budget & Cost Analysis" [level=2] [ref=e257]
+      - generic [ref=e258]: "Estimated Budget: 0 EGP"
+    - generic [ref=e259]:
+      - generic [ref=e261]:
+        - img [ref=e262]:
+          - generic [ref=e268]: 12,000
+          - generic [ref=e269]: EGP
+        - generic [ref=e270]:
+          - generic [ref=e273]: Hardware
+          - generic [ref=e276]: Cloud Hosting
+          - generic [ref=e279]: Marketing
+          - generic [ref=e282]: Miscellaneous
+      - generic [ref=e283]:
+        - generic [ref=e287]:
+          - img [ref=e289]
+          - generic [ref=e291]:
+            - generic [ref=e292]:
+              - heading "Hardware" [level=3] [ref=e293]
+              - generic: 0 EGP
+            - paragraph [ref=e294]: 2 touch-screen kiosks for cafeteria ordering.
+            - generic [ref=e296]:
+              - generic [ref=e297]: Budget Allocation
+              - generic [ref=e298]: 67%
+        - generic [ref=e303]:
+          - img [ref=e305]
+          - generic [ref=e307]:
+            - generic [ref=e308]:
+              - heading "Cloud Hosting" [level=3] [ref=e309]
+              - generic: 0 EGP
+            - paragraph [ref=e310]: Annual cloud database hosting and backend services.
+            - generic [ref=e312]:
+              - generic [ref=e313]: Budget Allocation
+              - generic [ref=e314]: 21%
+        - generic [ref=e319]:
+          - img [ref=e321]
+          - generic [ref=e326]:
+            - generic [ref=e327]:
+              - heading "Marketing" [level=3] [ref=e328]
+              - generic: 0 EGP
+            - paragraph [ref=e329]: Posters and promotional materials to encourage app usage.
+            - generic [ref=e331]:
+              - generic [ref=e332]: Budget Allocation
+              - generic [ref=e333]: 4%
+        - generic [ref=e338]:
+          - img [ref=e340]
+          - generic [ref=e344]:
+            - generic [ref=e345]:
+              - heading "Miscellaneous" [level=3] [ref=e346]
+              - generic: 0 EGP
+            - paragraph [ref=e347]: Installation tools, testing resources, and backup expenses.
+            - generic [ref=e349]:
+              - generic [ref=e350]: Budget Allocation
+              - generic [ref=e351]: 8%
+  - generic [ref=e357]:
+    - generic [ref=e358]:
+      - paragraph [ref=e361]: 06 · Technology
+      - heading "Smart App Features" [level=2] [ref=e363]
+      - paragraph [ref=e364]: Enhancing the Campus Dining Experience Through Technology
+    - generic [ref=e366]:
+      - generic:
+        - generic: 9:41
+      - generic [ref=e370]:
+        - generic [ref=e371]:
+          - generic [ref=e372]:
+            - heading "SUT Restaurant" [level=4] [ref=e373]
+            - generic [ref=e376]: Live • 12 in queue
+          - generic [ref=e377]:
+            - img [ref=e379]
+            - img [ref=e384]
+        - generic [ref=e385]:
+          - img [ref=e386]
+          - generic [ref=e389]: Search for meals...
+        - heading "Popular Meals" [level=5] [ref=e395]
+        - generic [ref=e397]:
+          - generic [ref=e398]:
+            - img "Grilled Chicken" [ref=e399]
+            - generic [ref=e400]:
+              - heading "Grilled Chicken" [level=5] [ref=e401]
+              - paragraph [ref=e402]: 45 EGP
+            - generic [ref=e403]: Add
+          - generic [ref=e404]:
+            - img "Pasta Alfredo" [ref=e405]
+            - generic [ref=e406]:
+              - heading "Pasta Alfredo" [level=5] [ref=e407]
+              - paragraph [ref=e408]: 35 EGP
+            - generic [ref=e409]: Add
+          - generic [ref=e410]:
+            - img "Caesar Salad" [ref=e411]
+            - generic [ref=e412]:
+              - heading "Caesar Salad" [level=5] [ref=e413]
+              - paragraph [ref=e414]: 25 EGP
+            - generic [ref=e415]: Out
+          - generic [ref=e416]:
+            - img "Beef Burger" [ref=e417]
+            - generic [ref=e418]:
+              - heading "Beef Burger" [level=5] [ref=e419]
+              - paragraph [ref=e420]: 55 EGP
+            - generic [ref=e421]: Add
+        - generic [ref=e423] [cursor=pointer]:
+          - img [ref=e424]
+          - generic [ref=e428]: View Cart • 2 items
+    - generic [ref=e429]:
+      - generic [ref=e430]:
+        - img [ref=e432]
+        - generic [ref=e434]:
+          - heading "Mobile Ordering" [level=3] [ref=e435]
+          - paragraph [ref=e436]: Order meals from your smartphone.
+      - generic [ref=e437]:
+        - img [ref=e439]
+        - generic [ref=e444]:
+          - heading "Live Queue" [level=3] [ref=e445]
+          - paragraph [ref=e446]: Monitor crowd levels.
+      - generic [ref=e447]:
+        - img [ref=e449]
+        - generic [ref=e451]:
+          - heading "Cashless" [level=3] [ref=e452]
+          - paragraph [ref=e453]: Secure digital payments.
+      - generic [ref=e454]:
+        - img [ref=e456]
+        - generic [ref=e459]:
+          - heading "Notifications" [level=3] [ref=e460]
+          - paragraph [ref=e461]: Instant alerts for pickups.
+      - generic [ref=e463]:
+        - img [ref=e465]
+        - generic [ref=e467]:
+          - heading "Digital Menu" [level=3] [ref=e468]
+          - paragraph [ref=e469]: Interactive menus with details.
+  - generic [ref=e473]:
+    - generic [ref=e474]:
+      - paragraph [ref=e475]: 07 · Experience
+      - heading "User Journey" [level=2] [ref=e476]
+      - paragraph [ref=e477]: From Ordering to Pickup in a Few Simple Steps
+    - generic [ref=e478]:
+      - generic [ref=e482]:
+        - generic [ref=e483]:
+          - generic:
+            - generic:
+              - img
+          - generic [ref=e487]:
+            - img [ref=e489]
+            - heading "Open App" [level=3] [ref=e491]
+            - paragraph [ref=e492]: Students access the smart cafeteria app from their mobile devices.
+        - generic [ref=e494]:
+          - generic:
+            - generic:
+              - img
+          - generic [ref=e498]:
+            - img [ref=e500]
+            - heading "Choose Meal" [level=3] [ref=e503]
+            - paragraph [ref=e504]: Browse meals, nutritional information, and real-time availability.
+        - generic [ref=e507]:
+          - generic:
+            - generic:
+              - img
+          - generic [ref=e511]:
+            - img [ref=e513]
+            - heading "Pay Securely" [level=3] [ref=e515]
+            - paragraph [ref=e516]: Complete transactions instantly using digital payment methods.
+        - generic [ref=e521]:
+          - img [ref=e523]
+          - heading "Pick Up Order" [level=3] [ref=e527]
+          - paragraph [ref=e528]: Receive notifications and collect the order without waiting in long lines.
+          - img [ref=e530]
+      - generic [ref=e533]:
+        - generic [ref=e534]:
+          - img [ref=e535]
+          - generic [ref=e538]:
+            - generic [ref=e539]: Average Time
+            - generic [ref=e540]: 0 minutes
+        - generic [ref=e542]:
+          - img [ref=e543]
+          - generic [ref=e546]:
+            - generic [ref=e547]: Efficiency Gain
+            - generic [ref=e548]: 0%
+        - generic [ref=e550]:
+          - img [ref=e551]
+          - generic [ref=e556]:
+            - generic [ref=e557]: Daily Users
+            - generic [ref=e558]: 0+
+  - generic [ref=e563]:
+    - generic [ref=e564]:
+      - paragraph [ref=e565]: 08 · Risk Management
+      - heading "Risk Assessment" [level=2] [ref=e566]
+      - paragraph [ref=e567]: Identifying Challenges and Building Smart Solutions
+    - generic [ref=e568]:
+      - generic [ref=e571]:
+        - img [ref=e573]
+        - heading "Technical Risk" [level=3] [ref=e575]
+        - generic [ref=e576]:
+          - generic [ref=e579]: Risk
+          - paragraph [ref=e580]: The application may crash during peak cafeteria hours due to high traffic.
+        - generic [ref=e582]:
+          - generic [ref=e585]: Impact
+          - generic [ref=e586]: High
+        - generic [ref=e587]:
+          - generic [ref=e589]: Mitigation
+          - paragraph [ref=e590]: Conduct stress testing, optimize server performance, and maintain a manual backup ordering system.
+      - generic [ref=e593]:
+        - img [ref=e595]
+        - heading "Financial Risk" [level=3] [ref=e598]
+        - generic [ref=e599]:
+          - generic [ref=e602]: Risk
+          - paragraph [ref=e603]: Hardware and installation costs may increase because of market fluctuations.
+        - generic [ref=e605]:
+          - generic [ref=e608]: Impact
+          - generic [ref=e609]: Medium
+        - generic [ref=e610]:
+          - generic [ref=e612]: Mitigation
+          - paragraph [ref=e613]: Allocate a contingency reserve and monitor expenses throughout development.
+      - generic [ref=e616]:
+        - img [ref=e618]
+        - heading "User Adoption Risk" [level=3] [ref=e623]
+        - generic [ref=e624]:
+          - generic [ref=e627]: Risk
+          - paragraph [ref=e628]: Some students may continue using traditional cafeteria ordering methods.
+        - generic [ref=e630]:
+          - generic [ref=e633]: Impact
+          - generic [ref=e634]: Medium
+        - generic [ref=e635]:
+          - generic [ref=e637]: Mitigation
+          - paragraph [ref=e638]: Offer promotional discounts and provide a simple user-friendly experience.
+    - generic [ref=e641]:
+      - generic [ref=e642]:
+        - img [ref=e644]
+        - generic [ref=e646]:
+          - heading "Risk Mitigation Strategy" [level=4] [ref=e647]
+          - paragraph [ref=e648]: Proactive planning ensures project success
+      - generic [ref=e649]:
+        - generic [ref=e650]:
+          - generic [ref=e651]: "0"
+          - generic [ref=e652]: Risks Identified
+        - generic [ref=e654]:
+          - generic [ref=e655]: 0%
+          - generic [ref=e656]: Mitigation Coverage
+  - generic [ref=e661]:
+    - generic [ref=e662]:
+      - heading "Expected Outcomes" [level=2] [ref=e664]
+      - paragraph [ref=e665]: Projected Impact & Measurable Benefits
+    - generic [ref=e666]:
+      - generic [ref=e669] [cursor=pointer]:
+        - generic [ref=e670]:
+          - img [ref=e672]
+          - generic [ref=e674]: 0%
+        - heading "Faster Service" [level=3] [ref=e675]
+        - paragraph [ref=e676]: Reduced waiting times
+      - generic [ref=e679] [cursor=pointer]:
+        - generic [ref=e680]:
+          - img [ref=e682]
+          - generic [ref=e685]: Reduced
+        - heading "Less Waste" [level=3] [ref=e686]
+        - paragraph [ref=e687]: Smart inventory tracking
+      - generic [ref=e690] [cursor=pointer]:
+        - generic [ref=e691]:
+          - img [ref=e693]
+          - generic [ref=e698]: 0%
+        - heading "Better Experience" [level=3] [ref=e699]
+        - paragraph [ref=e700]: Student satisfaction
+      - generic [ref=e703] [cursor=pointer]:
+        - generic [ref=e704]:
+          - img [ref=e706]
+          - generic [ref=e708]: Smart
+        - heading "Digital Future" [level=3] [ref=e709]
+        - paragraph [ref=e710]: Campus transformation
+    - generic [ref=e712]:
+      - img
+      - img
+      - generic [ref=e713]:
+        - generic [ref=e714]:
+          - img [ref=e716]
+          - heading "Measurable Impact" [level=3] [ref=e719]
+        - paragraph [ref=e720]: Key Performance Indicators
+      - generic [ref=e721]:
+        - generic [ref=e723]:
+          - generic [ref=e724]:
+            - img [ref=e726]
+            - generic [ref=e729]: Waiting Time Reduction
+          - generic [ref=e730]: 0%
+        - generic [ref=e733]:
+          - generic [ref=e734]:
+            - img [ref=e736]
+            - generic [ref=e741]: Student Satisfaction
+          - generic [ref=e742]: 0%
+        - generic [ref=e745]:
+          - generic [ref=e746]:
+            - img [ref=e748]
+            - generic [ref=e750]: Efficiency Improvement
+          - generic [ref=e751]: 0%
+        - generic [ref=e754]:
+          - generic [ref=e755]:
+            - img [ref=e757]
+            - generic [ref=e760]: Food Waste Reduction
+          - generic [ref=e761]: 0%
+      - generic [ref=e764]:
+        - generic [ref=e765] [cursor=pointer]:
+          - img [ref=e768]
+          - generic [ref=e773]: 0+
+          - generic [ref=e774]: Daily Users
+        - generic [ref=e775] [cursor=pointer]:
+          - img [ref=e778]
+          - generic [ref=e782]: 0+
+          - generic [ref=e783]: Orders/Day
+        - generic [ref=e784] [cursor=pointer]:
+          - img [ref=e787]
+          - generic [ref=e790]: 0 min
+          - generic [ref=e791]: Avg Wait
+        - generic [ref=e792] [cursor=pointer]:
+          - img [ref=e795]
+          - generic [ref=e798]: 0%
+          - generic [ref=e799]: Satisfaction
+  - generic [ref=e804]:
+    - generic [ref=e805]:
+      - paragraph [ref=e806]: Before We Meet the Team...
+      - heading "Would YOU use a smart cafeteria system like this at SUT?" [level=2] [ref=e807]
+    - generic [ref=e808]:
+      - button "Yes, definitely" [ref=e809]:
+        - generic [ref=e810]:
+          - img [ref=e812]
+          - generic [ref=e815]: Yes, definitely
+      - button "Maybe, if it saves time" [ref=e816]:
+        - generic [ref=e817]:
+          - img [ref=e819]
+          - generic [ref=e822]: Maybe, if it saves time
+      - button "No, I prefer traditional ordering" [ref=e823]:
+        - generic [ref=e824]:
+          - img [ref=e826]
+          - generic [ref=e830]: No, I prefer traditional ordering
+  - generic [ref=e835]:
+    - generic [ref=e836]:
+      - paragraph [ref=e837]: 06 · The People
+      - heading "Meet Team Alpha" [level=2] [ref=e838]
+      - paragraph [ref=e839]:
+        - img [ref=e840]
+        - text: Four students. One smart restaurant.
+    - generic [ref=e845]:
+      - generic [ref=e847]:
+        - img "Youssef Saber" [ref=e849]
+        - heading "Youssef Saber" [level=3] [ref=e850]
+        - generic [ref=e851]:
+          - img [ref=e852]
+          - text: Project Manager
+        - paragraph [ref=e855]: Coordinates scope, schedule and stakeholders.
+      - generic [ref=e857]:
+        - img "Ahmed Elalfy" [ref=e859]
+        - heading "Ahmed Elalfy" [level=3] [ref=e860]
+        - generic [ref=e861]:
+          - img [ref=e862]
+          - text: Financial Lead
+        - paragraph [ref=e865]: Owns budgeting, vendor costs and reporting.
+      - generic [ref=e867]:
+        - img "Omar Ahmed" [ref=e869]
+        - heading "Omar Ahmed" [level=3] [ref=e870]
+        - generic [ref=e871]:
+          - img [ref=e872]
+          - text: Risk Manager
+        - paragraph [ref=e874]: Maps risks and contingency strategies.
+      - generic [ref=e876]:
+        - img "Hbiba Mohamed" [ref=e878]
+        - heading "Hbiba Mohamed" [level=3] [ref=e879]
+        - generic [ref=e880]:
+          - img [ref=e881]
+          - text: Lead Researcher
+        - paragraph [ref=e883]: Drives user research and data validation.
+    - paragraph [ref=e884]: Thank you · SUT · HUM 231 · 2026
+  - generic [ref=e911]:
+    - generic [ref=e912]:
+      - heading "Thank You" [level=1] [ref=e913]
+      - paragraph [ref=e916]: Transforming SUT into a Smart Campus Experience.
+    - paragraph [ref=e918]: Team Alpha · HUM 231 · 2024
+  - generic [ref=e919]:
+    - button "Previous slide" [disabled] [ref=e920]:
+      - img [ref=e921]
+    - generic [ref=e923]:
+      - button "Go to slide 1" [ref=e924] [cursor=pointer]
+      - button "Go to slide 2" [ref=e925] [cursor=pointer]
+      - button "Go to slide 3" [ref=e926] [cursor=pointer]
+      - button "Go to slide 4" [ref=e927] [cursor=pointer]
+      - button "Go to slide 5" [ref=e928] [cursor=pointer]
+      - button "Go to slide 6" [ref=e929] [cursor=pointer]
+      - button "Go to slide 7" [ref=e930] [cursor=pointer]
+      - button "Go to slide 8" [ref=e931] [cursor=pointer]
+      - button "Go to slide 9" [ref=e932] [cursor=pointer]
+      - button "Go to slide 10" [ref=e933] [cursor=pointer]
+      - button "Go to slide 11" [ref=e934] [cursor=pointer]
+      - button "Go to slide 12" [ref=e935] [cursor=pointer]
+    - button "Next slide" [ref=e936]:
+      - img [ref=e937]
+    - generic [ref=e940]: 01 / 12
