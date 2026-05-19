@@ -37,22 +37,6 @@ import {
 } from "lucide-react";
 
 export const Route = createFileRoute("/")({
-  head: () => ({
-    meta: [
-      { title: "SUT Smart Tech Restaurant — Interactive Presentation" },
-      {
-        name: "description",
-        content:
-          "An interactive presentation for the SUT Smart Tech Restaurant — a mobile app and self-service kiosks that end campus cafeteria queues and waste.",
-      },
-      { property: "og:title", content: "SUT Smart Tech Restaurant" },
-      {
-        property: "og:description",
-        content:
-          "Smart Eco-Tech presentation: problem, solution, SMART objectives, methodology, budget and Team Alpha.",
-      },
-    ],
-  }),
   component: Presentation,
 });
 
